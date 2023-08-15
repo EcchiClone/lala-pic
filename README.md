@@ -1,3 +1,5 @@
+Note: Please be aware that the repository is undergoing improvements, and the current commit might exhibit some issues. We are actively working on resolving these through upcoming commits. Thank you for your patience and understanding.
+
 # Lala-Pic
 
 Lala-Pic is a simple image viewer with zoom-in and zoom-out functionality, supporting transparency in images.
@@ -23,6 +25,10 @@ Open the program and select an image file to display it. You can zoom in and out
 ## Contributing
 
 If you want to contribute to this project, feel free to submit a pull request.
+
+## Demo
+![GIF](https://user-images.githubusercontent.com/21221633/260633849-32805cea-6300-46fc-a80b-a65f90cb18df.gif)
+![PNG](https://user-images.githubusercontent.com/21221633/260633998-c1c4e4f7-86a1-4bcb-a100-39d49d44be21.gif)
 
 ## Future Improvements
 
